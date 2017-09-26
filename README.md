@@ -1,12 +1,12 @@
 
-# 4LOOP MEAN
+# SMSi MEAN
 
 # ![MEAN Logo](https://www.mysql.com/common/logos/logo-mysql-170x115.png)  <img src="https://mariadb.org/wp-content/uploads/2015/10/mariadb-usa-inc.png" width="200px" />
 
 <img src="http://mean.io/wp-content/themes/twentysixteen-child/images/express.png" width="200px" />![MEAN Logo](https://code-maven.com/img/angularjs.png) <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="100px" height="100px" />
 
 
-4LOOP MEAN is a framework for an easy starting point with [MySQL](https://www.mysql.com/) / [MariaDB](https://mariadb.org/), [Node.js](http://www.nodejs.org/), [Express](http://expressjs.com/), and [AngularJS](https://angularjs.org/) based applications. It is designed to give you a quick and organized way to start developing MEAN based web apps with useful modules pre-bundled and configured.
+SMSi MEAN is a framework for an easy starting point with [MySQL](https://www.mysql.com/) / [MariaDB](https://mariadb.org/), [Node.js](http://www.nodejs.org/), [Express](http://expressjs.com/), and [AngularJS](https://angularjs.org/) based applications. It is designed to give you a quick and organized way to start developing MEAN based web apps with useful modules pre-bundled and configured.
 
 ## Prerequisite Technologies
 ### Linux
@@ -261,9 +261,6 @@ $ heroku config:set NODE_ENV=production
 $ heroku config:set CPU_COUNT=2
 ```
 You can adjust the CPU_COUNT variable up or down based on how much memory your app is consuming, or leave it unset to fork a process for each CPU.
-
-## More Information
-  * Visit us at [4loop.ph](http://www.4loop.ph/).
 
 ## License
 We believe that MEAN should be free and easy to integrate within your existing projects so we chose [The MIT License](http://opensource.org/licenses/MIT)
